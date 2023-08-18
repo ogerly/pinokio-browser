@@ -25,7 +25,6 @@ The main features of this "Pinokio Browser" are:
 
 ```bash
 npm install
-npm run build
 npm run start
 ```
 
@@ -33,7 +32,6 @@ npm run start
 
 ```bash  
 yarn install
-yarn build
 yarn start
 ```
 
