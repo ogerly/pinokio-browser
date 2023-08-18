@@ -38,7 +38,6 @@ yarn start
 The main steps:
 
 - Install dependencies with `npm install` or `yarn install`
-- Build the app with `npm run build` or `yarn build`
 - Start the app with `npm run start` or `yarn start`
 
 These steps should work on Linux, Mac and Windows as long as npm or yarn is installed.
